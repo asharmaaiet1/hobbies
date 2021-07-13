@@ -1,4 +1,4 @@
-# User Hobbies React App
+# User Hobbies App in React
 
 Created using create react app using typeScript.
 
